@@ -223,6 +223,22 @@
       "longitude": -121.8923151,
       "url": "https://www.eventbrite.com/e/setapp-and-paddle-wwdc-2017-party-tickets-34567152283",
       "promoted": false
+    },
+    {
+      "objectId": "realm",
+      "icon": "https://raw.githubusercontent.com/genadyo/WWDC/master/data/icons/realm.png",
+      "logo": "https://raw.githubusercontent.com/genadyo/WWDC/master/data/logos/realm.jpg",
+      "title": "Realm's Swift Panel",
+      "startDate": "2017-06-06T18:00",
+      "endDate": "2017-06-06T21:00",
+      "details": "Join Chris Lattner, Jesse Squires, Kamilah Taylor and Kevin Ballard as Realm's JP Simard moderates this panel-style discussion on everything Swift.\n\nIMPORTANT: Capacity for this event is limited. RSVPs are required to attend this event, we'll only have capacity for the first 100 people at the door by 6pm.\n\nSchedule\n\n* 6pm: Doors open! Mix & mingle among your fellow Swifters. Drinks and light snacks provided.\n* 7pm: Panel + Q&A\n* Afterwards: Stay and chat with our panelists, mix and mingle some more.\n\nLocation: We will be announcing the location as we get closer to the event - RSVP, and stay tuned we'll let you know.\n\nVideo: A livestream of the event will be available and we'll be publishing the video shortly after the event.\n\nThis panel is presented by Realm, a platform to build reactive apps, realtime collaborative features, and offline-first experiences.",
+      "address1": "TBD",
+      "address2": "",
+      "address3": "San Jose, CA",
+      "latitude": 37.3304071,
+      "longitude": -121.8904105,
+      "url": "https://www.eventbrite.com/e/wwdc-2017-swift-panel-tickets-34611623297",
+      "promoted": false
     }
   ]
 }
