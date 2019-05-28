@@ -363,6 +363,21 @@
       "longitude": -121.8902,
       "url": "http://ibm.biz/Call4Code-SJ",
       "promoted": false   
+    },{   
+      "objectId": "twilio_gather_2019",    
+      "icon": "http://genady.okrain.com/parties/icons/twilio2019.png",   
+      "logo": "http://genady.okrain.com/parties/logos/twilio2019.png",   
+      "title": "Twilio's <Gather> WWDC 2019 </Gather> ",   
+      "startDate": "2019-06-05T18:30",    
+      "endDate": "2019-06-05T20:30",    
+      "details": "Gather with your friends from Twilio during Apple’s Worldwide Developer’s Conference .\n\nLocation is TBD (Thanks to NBA final)\n\nCan't wait to see what you'll build",   
+      "address1": "TBA",    
+      "address2": "TBA",   
+      "address3": "TBA",
+      "latitude": null,
+      "longitude": null,
+      "url": null,
+      "promoted": false   
     }
   ]
 }
