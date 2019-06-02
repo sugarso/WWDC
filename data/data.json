@@ -349,43 +349,43 @@
       "longitude": -121.88646,
       "url": "https://www.eventbrite.com/e/automators-wwdc-meetup-tickets-59398376142",
       "promoted": false
-    },{   
-      "objectId": "vapor2019",    
-      "icon": "http://genady.okrain.com/parties/icons/vapor.png",   
-      "logo": "http://genady.okrain.com/parties/logos/vapor.jpg",   
-      "title": "Vapor @ WWDC19",   
-      "startDate": "2019-06-04T19:00",    
-      "endDate": "2019-06-04T22:00",    
-      "details": "A meetup to talk about all things server-side Swift and Vapor for those attending WWDC, AltConf or nearby!\n\nLocation is TBD (apparently there’s some basketball final on that’s making booking somewhere difficult for now), but worst case we’ll just all descend on San Pedro Square!\n\nLooking forward to seeing all of you again!",   
-      "address1": "The Old Wagon Saloon & Grill",    
-      "address2": "73 N. San Pedro St",   
+    },{
+      "objectId": "vapor2019",
+      "icon": "http://genady.okrain.com/parties/icons/vapor.png",
+      "logo": "http://genady.okrain.com/parties/logos/vapor.jpg",
+      "title": "Vapor @ WWDC19",
+      "startDate": "2019-06-04T19:00",
+      "endDate": "2019-06-04T22:00",
+      "details": "A meetup to talk about all things server-side Swift and Vapor for those attending WWDC, AltConf or nearby!\n\nLocation is TBD (apparently there’s some basketball final on that’s making booking somewhere difficult for now), but worst case we’ll just all descend on San Pedro Square!\n\nLooking forward to seeing all of you again!",
+      "address1": "The Old Wagon Saloon & Grill",
+      "address2": "73 N. San Pedro St",
       "address3": "San Jose, CA, 95113",
       "latitude": 37.336435,
       "longitude": -121.8940059,
       "url": "http://meetu.ps/e/GLQHF/zf1k9/c",
-      "promoted": false   
-    },{   
-      "objectId": "CallforCode_IBMReception",    
-      "icon": "http://genady.okrain.com/parties/icons/callfor2019.png",   
-      "logo": "http://genady.okrain.com/parties/logos/callfor2019.jpg",   
-      "title": "Call for Code Reception @ WWDC19",   
-      "startDate": "2019-06-05T18:30",    
-      "endDate": "2019-06-05T20:30",    
-      "details": "End your day at Apple’s Worldwide Developer’s Conference at IBM’s Call for Code Reception, and discover how you and your peers can make a difference in solving society’s most pressing issues.\n\nLocation is TBD (apparently there’s some basketball final on that’s making booking somewhere difficult for now), but worst case we’ll just all descend on San Pedro Square!\n\nLooking forward to seeing all of you again!",   
-      "address1": "The Continental Bar",    
-      "address2": "349 South First St",   
+      "promoted": false
+    },{
+      "objectId": "CallforCode_IBMReception",
+      "icon": "http://genady.okrain.com/parties/icons/callfor2019.png",
+      "logo": "http://genady.okrain.com/parties/logos/callfor2019.jpg",
+      "title": "Call for Code Reception @ WWDC19",
+      "startDate": "2019-06-05T18:30",
+      "endDate": "2019-06-05T20:30",
+      "details": "End your day at Apple’s Worldwide Developer’s Conference at IBM’s Call for Code Reception, and discover how you and your peers can make a difference in solving society’s most pressing issues.\n\nLocation is TBD (apparently there’s some basketball final on that’s making booking somewhere difficult for now), but worst case we’ll just all descend on San Pedro Square!\n\nLooking forward to seeing all of you again!",
+      "address1": "The Continental Bar",
+      "address2": "349 South First St",
       "address3": "San Jose, CA, 95113",
       "latitude": 37.33552,
       "longitude": -121.8902,
       "url": "http://ibm.biz/Call4Code-SJ",
-      "promoted": false   
-    },{   
-      "objectId": "homekit2019",    
-      "icon": "http://genady.okrain.com/parties/icons/homekit.png",   
-      "logo": "http://genady.okrain.com/parties/logos/homekit.png",   
+      "promoted": false
+    },{
+      "objectId": "homekit2019",
+      "icon": "http://genady.okrain.com/parties/icons/homekit.png",
+      "logo": "http://genady.okrain.com/parties/logos/homekit.png",
       "title": "HomeKit Meetup",
-      "startDate": "2019-06-04T21:00",    
-      "endDate": "2019-06-04T22:00",    
+      "startDate": "2019-06-04T21:00",
+      "endDate": "2019-06-04T22:00",
       "details": "Are you a developer working on HomeKit hardware, firmware, or apps? Maybe just a user who is interested in HomeKit. We are getting folks together in San Jose to hang out and have a beer and talk smart home. We will meet up outside in the back of Original Gravity Public House around 9 for about an hour, they close at 10PM on Tuesdays. If folks want to continue we can find another bar to go to afterwords.\n\nAdam & Leo from ConnectSense will have some stickers, pins and other swag to hand out. If you want to bring something to share with the group feel free.",
       "address1": "Original Gravity Public House",
       "address2": "66 South 1st Street",
@@ -393,14 +393,14 @@
       "latitude": 37.335085,
       "longitude": -121.889693,
       "url": "https://www.eventbrite.com/e/homekit-meetup-no-wwdc-badge-needed-tickets-62508713244?ref=estw",
-      "promoted": false   
-    },{   
-      "objectId": "embraceio2019",    
+      "promoted": false
+    },{
+      "objectId": "embraceio2019",
       "icon": "http://genady.okrain.com/parties/icons/embraceio.png",
       "logo": "http://genady.okrain.com/parties/logos/embrace.jpg",
       "title": "WWDC Breakfast Burritos with Embrace!",
       "startDate": "2019-06-04T08:00",
-      "endDate": "2019-06-04T10:00",    
+      "endDate": "2019-06-04T10:00",
       "details": "Complimentary breakfast burritos served to hungry attendees of WWDC & AltConf!\n\nTo help fuel developers through the many sessions, meetups, conferences and happy hours during the week of WWDC, Embrace is serving free breakfast burritos for the iOS community!\n\nOn the mornings of June 4th and 5th, the Embrace team will be parked near the convention center handing out breakfast burritos for hungry attendees of WWDC and AltConf.",
       "address1": "McEnery Convention Center",
       "address2": "150 West San Carlos Street",
@@ -408,14 +408,14 @@
       "latitude": 37.330299,
       "longitude": -121.889347,
       "url": "https://www.eventbrite.com/e/wwdc-breakfast-burritos-with-embrace-tickets-62308195490?ref=eios",
-      "promoted": false   
-    },{   
-      "objectId": "embraceio2019",    
+      "promoted": false
+    },{
+      "objectId": "embraceio2019",
       "icon": "http://genady.okrain.com/parties/icons/embraceio.png",
       "logo": "http://genady.okrain.com/parties/logos/embrace.jpg",
       "title": "WWDC Breakfast Burritos with Embrace!",
       "startDate": "2019-06-05T08:00",
-      "endDate": "2019-06-05T10:00",    
+      "endDate": "2019-06-05T10:00",
       "details": "Complimentary breakfast burritos served to hungry attendees of WWDC & AltConf!\n\nTo help fuel developers through the many sessions, meetups, conferences and happy hours during the week of WWDC, Embrace is serving free breakfast burritos for the iOS community!\n\nOn the mornings of June 4th and 5th, the Embrace team will be parked near the convention center handing out breakfast burritos for hungry attendees of WWDC and AltConf.",
       "address1": "McEnery Convention Center",
       "address2": "150 West San Carlos Street",
@@ -423,14 +423,14 @@
       "latitude": 37.330299,
       "longitude": -121.889347,
       "url": "https://www.eventbrite.com/e/wwdc-breakfast-burritos-with-embrace-tickets-62308195490?ref=eios",
-      "promoted": false   
-    },{   
-      "objectId": "fiestakit2019",    
+      "promoted": false
+    },{
+      "objectId": "fiestakit2019",
       "icon": "http://genady.okrain.com/parties/icons/fiestakit-icon.png",
       "logo": "http://genady.okrain.com/parties/logos/fiestakit-logo.png",
       "title": "FiestaKit 2019",
       "startDate": "2019-06-07T19:00",
-      "endDate": "2019-06-07T23:00",    
+      "endDate": "2019-06-07T23:00",
       "details": "Discover What's New in FiestaKit this year!\n\nJoin us at Asadero, a Mexican BBQ fusion restaurant and craft brew house in nearby Santa Clara, for an evening of fun. We're taking over the entire venue!\n\nRelax and unwind after a busy week. Enjoy an open bar with craft beer, wine, and frozen margaritas, all included. A delicious taco & bowl bar (with meat and vegetarian options) and nonalcoholic drinks are included, too.",
       "address1": "Asadero",
       "address2": "2323 The Alameda",
@@ -438,14 +438,14 @@
       "latitude": 37.344858,
       "longitude": -121.933627,
       "url": "https://ti.to/fox-den-parties/fiestakit-2019",
-      "promoted": false   
-    },{   
-      "objectId": "ladiesatwwdc2019",    
+      "promoted": false
+    },{
+      "objectId": "ladiesatwwdc2019",
       "icon": "http://genady.okrain.com/parties/icons/ladiesatwwdc-icon.png",
       "logo": "http://genady.okrain.com/parties/logos/ladiesatwwdc.jpg",
       "title": "Ladies At WWDC",
       "startDate": "2019-06-06T17:00",
-      "endDate": "2019-06-06T20:00",    
+      "endDate": "2019-06-06T20:00",
       "details": "Enjoy an evening of fun networking, delicious appetizers, awesome swag, and themed cocktails with your fellow women-in-tech during WWDC.",
       "address1": "Scott's Seafood",
       "address2": "185 Park Ave",
@@ -453,14 +453,14 @@
       "latitude": 37.331482,
       "longitude": -121.891575,
       "url": "https://ti.to/iOS-meetups/ladies-at-wwdc",
-      "promoted": false   
-    },{   
-      "objectId": "rightpoint2019",    
+      "promoted": false
+    },{
+      "objectId": "rightpoint2019",
       "icon": "http://genady.okrain.com/parties/icons/rightpoint-icon.jpg",
       "logo": "http://genady.okrain.com/parties/logos/rightpoint-logo.png",
       "title": "Rightpoint AltConf Happy Hour",
       "startDate": "2019-06-04T15:30",
-      "endDate": "2019-06-04T17:00",    
+      "endDate": "2019-06-04T17:00",
       "details": "Come have a drink and meet some of the Rightpoint staff - talk to our Oakland office iOS Developers! We are hiring!!",
       "address1": "San Jose Marriott",
       "address2": "301 South Market Street",
@@ -468,7 +468,22 @@
       "latitude": 37.330463,
       "longitude": -121.888149,
       "url": "https://www.eventbrite.com/e/rightpoint-altconf-happy-hour-registration-62540419077?aff=parties",
-      "promoted": false   
+      "promoted": false
+    },{
+      "objectId": "twilioGather2019",
+      "icon": "http://genady.okrain.com/parties/icons/twilio.jpg",
+      "logo": "http://genady.okrain.com/parties/logos/twilio2019.png",
+      "title": "Twilio <Gather/> 2019",
+      "startDate": "2019-06-05T18:30",
+      "endDate": "2019-06-05T21:00",
+      "details": "Gather with your friends from Twilio during Apple’s Worldwide Developer’s Conference. Twilio Champion, Clement, and Dev. Evangelist Lizzie will be in attendance to talk all things Twilio. Whether you're a small start-up to a large enterprise, we can't wait to see what you build! There is no cost to attend, but space is limited, so save your spot today. And Enjoy your WWDC !",
+      "address1": "Loft Bar and Bistro",
+      "address2": "90 South Second Street",
+      "address3": "San Jose, CA, 95113",
+      "latitude": 37.33501,
+      "longitude": -121.88827,
+      "url": "https://twiliowwdc19.splashthat.com",
+      "promoted": false  
     }
   ]
 }
